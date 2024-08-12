@@ -1,0 +1,130 @@
+*{
+    font-family: Okra, Helvetica, sans-serif;
+}
+
+.h3{
+    font-size: 18px;
+}
+
+.bg-img{
+    background-image: url('bg_img.png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100%;
+}
+.bg-img02{
+    background-image: url('bg_food.png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    
+    /*  */
+    /* height: 300px; */
+}
+
+.bg-img03{
+    background-image: url('row_bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100%;
+}
+
+.bg-img04{
+    background-image: url('bg_form.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100%;
+}
+
+.section3_pad{
+    padding: 3em 6em 5em;
+}
+
+.header_text{
+    padding-left: calc(var(--bs-gutter-x) * 6.0);
+    padding-top: calc(var(--bs-gutter-x) * 1.5);
+    padding-right: calc(var(--bs-gutter-x) * 9.25) ;
+    padding-bottom: calc(var(--bs-gutter-x) * 2.20) ;
+    /* padding-bottom: calc(var(--bs-gutter-x) * 6.5) ; */
+}
+
+.btn_1{
+    width:375px;
+    height: 45px; ;
+}
+
+.section2_float{
+    top: 420px;
+    left:250px;    
+    width: 775px;
+    height:350px; 
+    font-weight: 500;
+}
+
+.tick{
+    /* height : 35px; */
+    width : 40px;
+    padding-left: 22px;
+padding-right: 0px;}
+
+.section3_float{
+    padding-right:  100px;
+    padding-left: 100px;
+     
+}
+
+.section3_1{
+    width: 150px;
+    height:150px; 
+}
+
+.scooter_bg{
+    background-color: rgb(255,245,246);
+}
+ 
+ .packet_bg{
+    background-color: rgb(255,249,241);
+ }
+
+.card_sub{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(34, 32, 32);   
+}
+
+.cardtext{
+    font-size: 14px;
+    font-weight:250;
+     
+}
+
+.slider_client{
+    padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 0px;
+}
+
+.number_icon{
+    /* height: 100px; */
+    width: 60px;
+}
+
+.phone{
+    width: 300px;
+}
+
+.search_restro{
+    padding-top: 200px;
+    padding-left: 100px;
+    padding-bottom: 210px;
+}
+
+.search_form{
+    margin-top: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-bottom:50px ;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+
